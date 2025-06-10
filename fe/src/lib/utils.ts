@@ -12,5 +12,3 @@ export function generateMeetCode() {
 
   return `${randomSegment(3)}-${randomSegment(4)}-${randomSegment(3)}`;
 }
-
-console.log(generateMeetCode());
